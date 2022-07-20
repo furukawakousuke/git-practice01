@@ -1,0 +1,42 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing:border-box;
+}
+
+.heading{
+  background-image:url(img/mv.jpg);
+  width:100%;
+  height:400px;
+  background-size:cover;
+  background-position:bottom;
+}
+.heading h2{
+  padding:20px;
+}
+main{
+  width:840px;
+  margin:50px auto;
+}
+.menu-box1{
+  padding-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+  margin-bottom:30px;
+}
+.menu-box2{
+  padding-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+  margin-bottom:30px;
+}
+.menu-box3{
+  padding-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+  margin-bottom:30px;
+}
+.menu-box4{
+  padding-bottom:30px;
+  border-bottom:1px solid #d1d1d1;
+}
+.menu-image{
+  margin-bottom:9px;
+}
